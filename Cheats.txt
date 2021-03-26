@@ -1,0 +1,2 @@
+First room: The code is 4238
+Last room: press V, B, N to instantly get the parts
