@@ -31,7 +31,7 @@ void Credits::draw()
 
 	printInCenter("Creator:", 0, 21);
 	printInCenter("Skoufoulas Ioannis", 1, 21);
-
+	printInCenter("Github: https://github.com/Cryoticen", 2, 20);
 	printInCenter("Artwork  with  the  help  of:", 3, 21);
 	printInCenter("Deepnight Games : Map Editor 2", 4, 17);
 	printInCenter("RachelTheSeeker", 5, 17);
